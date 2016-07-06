@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Julian Richings as Shem in Seraphim
-datePublished: '2016-07-05T05:09:00.366Z'
-dateModified: '2016-07-05T05:08:33.284Z'
+datePublished: '2016-07-06T22:42:20.999Z'
+dateModified: '2016-07-06T22:41:57.784Z'
 title: ''
 author: []
+sourcePath: _posts/2016-07-05-julian-richings-as-shem-in-seraphim.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-05-julian-richings-as-shem-in-seraphim.md
 url: julian-richings-as-shem-in-seraphim/index.html
 _type: Article
 
